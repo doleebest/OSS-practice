@@ -1,2 +1,3 @@
 # OSS-practice
-OpenSource św platform of Fall 2024
+OpenSource sw platform of Fall 2024
+I'm adding a line to README here!
