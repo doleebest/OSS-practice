@@ -1,2 +1,2 @@
 # OSS-practice
-OpenSource św platform of Fall 2024
+OpenSource sw platform of Fall 2024
